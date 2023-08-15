@@ -3,4 +3,4 @@
 This repo contains a curated list of papers relating to recent literature of LLMs as Agent and LLMs for Tool Use. We welcome the community to contribute and add papers to the list that you find enjoyable to read.
 
 ### Catalogue:
-* <a href='#benchmark'>Benchmark</a>
+* <a href='#benchmark'>1. Benchmark</a>
