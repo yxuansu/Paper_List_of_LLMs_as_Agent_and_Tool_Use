@@ -17,6 +17,20 @@ This repo contains a curated list of papers relating to recent literature of LLM
   _[Authors]: Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang,
 Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang_
 
+  <details>
+  <summary>[Takeaways]:</summary>
+    AgentBench consists of 8 distinct environment to assess the capabilities of LLMs as agenst, including
+    
+    * operating system (OS)
+    * database (DB)
+    * knowledge graph (KG)
+    * digital card game (DCG)
+    * lateral thinking puzzles (LTP)
+    * house-holding (Alfworld)
+    * web shopping (WebShop)
+    * web browsing (Mind2Web)
+  </details>
+
   
 
 * **[2023.08.22] Language agents: a critical evolutionary step of artificial intelligence** [[slides]](https://lfs.aminer.cn/misc/language_agents_YuSu.pdf)
