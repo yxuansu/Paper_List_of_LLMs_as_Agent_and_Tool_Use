@@ -21,14 +21,14 @@ Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang_
   <summary>[Takeaways]:</summary>
     AgentBench consists of 8 distinct environment to assess the capabilities of LLMs as agenst, including
     
-    * operating system (OS)
-    * database (DB)
-    * knowledge graph (KG)
-    * digital card game (DCG)
-    * lateral thinking puzzles (LTP)
-    * house-holding (Alfworld)
-    * web shopping (WebShop)
-    * web browsing (Mind2Web)
+    * 1. Operating System (OS)
+    * 2. Database (DB)
+    * 3. Knowledge Graph (KG)
+    * 4. Digital Card Game (DCG)
+    * 5. Lateral Thinking Puzzles (LTP)
+    * 6. House-holding (Alfworld)
+    * 7. Web Shopping (WebShop)
+    * 8. Web Browsing (Mind2Web)
   </details>
 
   
