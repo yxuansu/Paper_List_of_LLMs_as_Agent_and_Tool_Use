@@ -18,5 +18,5 @@ This repo contains a curated list of papers relating to recent literature of LLM
 
   <details>
   <summary>[Takeaways]:</summary>
-    Discuss the definition of LLMs as agents.
+    Discuss the definition of (1) LLMs as agents, (2) tool augmentation, (3) reasoning and planning, (4) grounding.
   </details>
