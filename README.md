@@ -7,7 +7,7 @@ This repo contains a curated list of papers relating to recent literature of LLM
 
   _[Authors]: Timo Schick, Jane Dwivedi-Yu, Roberto Dessì†, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialo._
 
-  <details>
+  <details open>
   <summary>[Takeaways]:</summary>
     Teach LLMs to use tools by generating text and API calls (represented by text) in an interleaved manner. The training corpus is constructed on CCNet with some predefined heuristics. Experiments on various benchmarks, e.g. LAMA, Math, Question Answering, demonstrate zero-shot strong performance over much larger LLMs (OPT and GPT-3) without providing any in-context examples. The remaining challenges in Toolformer is its inability (i) to use multiple tools when addressing natural language task, (ii) to discard the output from APIs by itself when the output is not helpful.
   </details>
@@ -17,7 +17,7 @@ This repo contains a curated list of papers relating to recent literature of LLM
   _[Authors]: Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang,
 Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang_
 
-  <details>
+  <details open>
   <summary>[Takeaways]:</summary>
     AgentBench consists of 8 distinct environment to assess the capabilities of LLMs as agenst, including
     
@@ -37,7 +37,7 @@ Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang_
 
   _[Author]: Yu Su_
 
-  <details>
+  <details open>
   <summary>[Takeaways]:</summary>
     Discuss the definition of (1) LLMs as agents, (2) tool augmentation, (3) reasoning and planning, (4) grounding.
   </details>
