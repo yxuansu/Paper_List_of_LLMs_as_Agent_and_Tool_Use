@@ -3,9 +3,9 @@
 This repo contains a curated list of papers relating to recent literature of LLMs as Agent and LLMs for Tool Use. We welcome the community to contribute and add papers to the list that you find enjoyable to read.
 
 
-* **Toolformer: Language Models Can Teach Themselves to Use Tools** 
+* **[2023.02.09] Toolformer: Language Models Can Teach Themselves to Use Tools** 
 
-  _Timo Schick, Jane Dwivedi-Yu, Roberto Dessì†, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialo. [2023.02.09]_
+  _Timo Schick, Jane Dwivedi-Yu, Roberto Dessì†, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialo._
   
   [[Arxiv]](https://arxiv.org/abs/2302.04761) [[Code]]()
 
