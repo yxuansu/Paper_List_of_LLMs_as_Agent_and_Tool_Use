@@ -4,3 +4,10 @@ This repo contains a curated list of papers relating to recent literature of LLM
 
 ### Catalogue:
 * <a href='#benchmark'>1. Benchmark</a>
+
+
+* **Toolformer: Language Models Can Teach Themselves to Use Tools** 
+
+  _Timo Schick, Jane Dwivedi-Yu, Roberto Dessì†, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom_
+  
+  [[Arxiv]](https://arxiv.org/abs/2302.04761)
