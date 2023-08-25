@@ -12,6 +12,11 @@ This repo contains a curated list of papers relating to recent literature of LLM
     Teach LLMs to use tools by generating text and API calls (represented by text) in an interleaved manner. The training corpus is constructed on CCNet with some predefined heuristics. Experiments on various benchmarks, e.g. LAMA, Math, Question Answering, demonstrate zero-shot strong performance over much larger LLMs (OPT and GPT-3) without providing any in-context examples. The remaining challenges in Toolformer is its inability (i) to use multiple tools when addressing natural language task, (ii) to discard the output from APIs by itself when the output is not helpful.
   </details>
 
+* **[2023.07.31] ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs** [[arxiv]](https://arxiv.org/abs/2307.16789) [[code]](https://github.com/OpenBMB/ToolBench)
+
+  _[Authors]:Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin , Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun_
+  
+
 * **[2023.08.07] AgentBench: Evaluating LLMs as Agents** [[arxiv]](https://arxiv.org/abs/2308.03688) [[code]](https://github.com/THUDM/AgentBench)
 
   _[Authors]: Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang,
