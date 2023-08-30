@@ -15,6 +15,16 @@ This repo contains a curated list of papers relating to recent literature of LLM
     Toolformer considers a limited number of tools, including (1) Question Answering; (2) Calculator; (3) Wikipedia Search; (4) Machine Translation System; and (5) Calendar. And it focuses on single tool-usage scenerios.
   </details>
 
+* **[2023.05.30] GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction** [[arxiv]](https://arxiv.org/abs/2305.18752) [[code]](https://github.com/StevenGrove/GPT4Tools)
+
+  _[Authors]:Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan._
+
+  <details open>
+  <summary><b>[Remarks]</b>: (click to close)</summary>
+    This work investigates LLMs tool use for multimodal scenarios. The experimental setups are similar to Visual ChatGPT. The evaluation benchmark is synthetically generated with ChatGPT.
+  </details>
+  
+
 * **[2023.07.31] ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs** [[arxiv]](https://arxiv.org/abs/2307.16789) [[code]](https://github.com/OpenBMB/ToolBench)
 
   _[Authors]:Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin , Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun._
