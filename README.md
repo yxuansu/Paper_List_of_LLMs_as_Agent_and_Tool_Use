@@ -35,12 +35,25 @@ This repo contains a curated list of papers relating to recent literature of LLM
 
     Comparing to Toolformer, ToolLLM considers more fine-grained categorizations of tools. For instance, each class of tool (e.g. Movie) consists of multiple subtools, such as (1) Star Wars Characters; (2) Streaming Availability; and etc. This fine-grained categorization offers the LLMs with more fleixibility and the capability to operate in a more precise way. Inevitably, it also demands the LLMs to identify nuanced distinctions between similar tools in order to complete the task.
   </details>
+
+
+* **[2023.08.01] Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models** [[arxiv]](https://arxiv.org/abs/2308.00675)
+
+  _[Authors]: Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister._
+
+  <details open>
+  <summary><b>[Remarks]</b>: (click to close)</summary>
+    This work presents a straightforward but important conclusion. When teaching LLMs to use tools, documentations are often more efficient and scalable comparing to the conventional ways of providing few-shot demonstrations (e.g. in-context examples of how to use (several) tool(s) to address a specific task). 
+
+    I personally like this paper a lot.
+  </details>
+  
   
 
 * **[2023.08.07] AgentBench: Evaluating LLMs as Agents** [[arxiv]](https://arxiv.org/abs/2308.03688) [[code]](https://github.com/THUDM/AgentBench)
 
   _[Authors]: Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang,
-Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang_
+Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang._
 
   <details open>
   <summary><b>[Remarks]</b>: (click to close)</summary>
