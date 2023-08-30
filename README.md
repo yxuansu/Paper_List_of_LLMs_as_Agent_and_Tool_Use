@@ -15,6 +15,11 @@ This repo contains a curated list of papers relating to recent literature of LLM
 * **[2023.07.31] ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs** [[arxiv]](https://arxiv.org/abs/2307.16789) [[code]](https://github.com/OpenBMB/ToolBench)
 
   _[Authors]:Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin , Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun._
+
+  <details open>
+  <summary><b>[Remarks]</b>: (click to close)</summary>
+    Gather up 3451 tools (e.g. social media, e-commerce, and weather) consisting of 16464 APIs from [RapidAPI](https://rapidapi.com/hub).
+  </details>
   
 
 * **[2023.08.07] AgentBench: Evaluating LLMs as Agents** [[arxiv]](https://arxiv.org/abs/2308.03688) [[code]](https://github.com/THUDM/AgentBench)
