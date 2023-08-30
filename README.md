@@ -21,7 +21,7 @@ This repo contains a curated list of papers relating to recent literature of LLM
 
   <details open>
   <summary><b>[Remarks]</b>: (click to close)</summary>
-    This work investigates LLMs tool use for multimodal scenarios. The experimental setups are similar to Visual ChatGPT. The evaluation benchmark is synthetically generated with ChatGPT.
+    This work investigates LLMs tool use for multimodal scenarios. The definitions of multimodal tools are similar to Visual ChatGPT. The evaluation benchmark is synthetically generated with ChatGPT.
   </details>
   
 
