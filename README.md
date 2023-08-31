@@ -15,6 +15,16 @@ This repo contains a curated list of papers relating to recent literature of LLM
     Toolformer considers a limited number of tools, including (1) Question Answering; (2) Calculator; (3) Wikipedia Search; (4) Machine Translation System; and (5) Calendar. And it focuses on single tool-usage scenerios.
   </details>
 
+* **[2023.05.24] Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** [[arxiv]](https://arxiv.org/abs/2304.09842) [[code]](https://github.com/lupantech/chameleon-llm)
+
+  _[Authors]: Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao._
+
+  <details open>
+  <summary><b>[Remarks]</b>: (click to close)</summary>
+    Propose a plug-and-play framework to address multi-modal reasoning task. The core component is a LLM-powered planner which is surrounded by a few dedicated tool modules. Some of the tools are implemented with LLMs by prompting with few-shot demonstrations. Chameleon demonstrates promising results on two challenging benchmarks.
+  </details>
+
+
 * **[2023.05.30] GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction** [[arxiv]](https://arxiv.org/abs/2305.18752) [[code]](https://github.com/StevenGrove/GPT4Tools)
 
   _[Authors]:Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan._
