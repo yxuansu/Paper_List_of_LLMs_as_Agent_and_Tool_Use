@@ -24,6 +24,16 @@ This repo contains a curated list of papers relating to recent literature of LLM
     Propose a plug-and-play framework to address multi-modal reasoning task. The core component is a LLM-powered planner which is surrounded by a few dedicated tool modules. Some of the tools are implemented with LLMs by prompting with few-shot demonstrations. Chameleon demonstrates promising results on two challenging benchmarks.
   </details>
 
+* **[2023.05.25] On the Tool Manipulation Capability of Open-source Large Language Models** [[arxiv]](https://arxiv.org/abs/2305.16504) [[code]](https://github.com/sambanova/toolbench)
+
+  _[Authors]: Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang._
+
+  <details open>
+  <summary><b>[Remarks]</b>: (click to close)</summary>
+    This work identifies three main challenges posed to open-source LLMs for tool use, namely, (1) difficulty in API selection; (2) confusion in populating arguments; and (3) non-executable generation. It leverages LLMs for tool use by following a standard paradigm: instruction -> action generation -> observation -> final output. This work proposes a ToolBench which gathers popular APIs from sites like REST APIs (https://openweathermap.org/api) and (https://thecatapi.com/). The experimental results show promising improvements given the authors' proposed approaches. 
+  </details>
+
+
 
 * **[2023.05.30] GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction** [[arxiv]](https://arxiv.org/abs/2305.18752) [[code]](https://github.com/StevenGrove/GPT4Tools)
 
