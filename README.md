@@ -33,7 +33,7 @@ This repo contains a curated list of papers relating to recent literature of LLM
   <summary><b>[Remarks]</b>: (click to close)</summary>
     Gorilla focuses on the single-turn and single tool-usage (i.e. one API call) scenarios. Gorilla proposes APIBench which collects tools from Huggingface, Torch, and TensorFlow. The instruction-answer pairs are synthetically created by prompting GPT-4. Gorilla considers two different setting: (1) zero-shot and (2) retriever, in which a retriever (e.g. BM25, GPT-Index, or Oracle) is a involved. The experimental results demonstrate that when the quality of the retriever is low, the performance of the model could be even decreased.
 
-    In one word, Gorilla is a nice work pioneering the field of API usage.
+    In one word, Gorilla is a nice work pioneering the field of API usage with LLMs.
   </details>
 
 
