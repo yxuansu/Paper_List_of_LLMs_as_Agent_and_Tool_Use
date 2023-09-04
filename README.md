@@ -24,6 +24,12 @@ This repo contains a curated list of papers relating to recent literature of LLM
     Propose a plug-and-play framework to address multi-modal reasoning task. The core component is a LLM-powered planner which is surrounded by a few dedicated tool modules. Some of the tools are implemented with LLMs by prompting with few-shot demonstrations. Chameleon demonstrates promising results on two challenging benchmarks.
   </details>
 
+
+* **[2023.05.24] Gorilla: Large Language Model Connected with Massive APIs** [[arxiv]](https://arxiv.org/abs/2305.15334) [[code]](https://gorilla.cs.berkeley.edu/)
+
+  _[Authors]: Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez._
+
+
 * **[2023.05.25] On the Tool Manipulation Capability of Open-source Large Language Models** [[arxiv]](https://arxiv.org/abs/2305.16504) [[code]](https://github.com/sambanova/toolbench)
 
   _[Authors]: Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang._
