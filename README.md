@@ -108,6 +108,10 @@ Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang._
 
   _[Author]: Yu Su_
 
+* **[2023.08.28] Tool-Augmented LLMs** [[blog post]](https://nlpnewsletter.substack.com/p/tool-augmented-llms?utm_campaign=post&utm_medium=web)
+
+  _[Author]: Sebastian Ruder_
+
   <details open>
   <summary><b>[Remarks]</b>: (click to close)</summary>
     Discuss the definition of (1) LLMs as agents, (2) tool augmentation, (3) reasoning and planning, (4) grounding.
