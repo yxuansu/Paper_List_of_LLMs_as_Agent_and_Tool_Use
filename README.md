@@ -56,7 +56,11 @@ This repo contains a curated list of papers relating to recent literature of LLM
   <summary><b>[Remarks]</b>: (click to close)</summary>
     This work investigates LLMs tool use for multimodal scenarios. The definitions of multimodal tools are similar to Visual ChatGPT. The evaluation benchmark is synthetically generated with ChatGPT.
   </details>
-  
+
+
+* **[2023.06.23] LLM Powered Autonomous Agents** [[blog post]](https://lilianweng.github.io/posts/2023-06-23-agent/)
+
+  _[Author]: Lilian Weng_
 
 * **[2023.07.31] ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs** [[arxiv]](https://arxiv.org/abs/2307.16789) [[code]](https://github.com/OpenBMB/ToolBench)
 
@@ -116,3 +120,5 @@ Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang._
   <summary><b>[Remarks]</b>: (click to close)</summary>
     Discuss the definition of (1) LLMs as agents, (2) tool augmentation, (3) reasoning and planning, (4) grounding.
   </details>
+
+
