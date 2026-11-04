@@ -122,3 +122,13 @@ Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang._
   </details>
 
 
+* **[2026.01.19] Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** [[arxiv]](https://arxiv.org/abs/2601.12762) [[code]](https://github.com/NEUIR/ToolMaster)
+
+  _[Authors]: Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu._
+
+  <details open>
+  <summary><b>[Remarks]</b>: (click to close)</summary>
+    Propose ToolMaster, which shifts tool learning from imitating golden tool-calling trajectories to a trial-and-execution paradigm: the LLM first tries out the tools to understand how they behave and then executes the task, self-correcting through environment interaction. Training first imitates teacher-generated trajectories with explicit tool trials and self-correction (SFT), followed by RL (GRPO) that coordinates the trial and execution phases. The goal is better generalization and robustness on unseen or unfamiliar tools.
+  </details>
+
+
